@@ -1,6 +1,5 @@
 ## Contracts (Foundry)
 
-**English**
 This folder contains the ERC-20 contract and its tests.
 
 Core files
@@ -40,9 +39,9 @@ Notes
 - `--broadcast` sends a real transaction. Without it, Forge runs a dry-run only.
 - The initial supply above is `1,000,000 * 10^18`.
 
----
+<details>
+<summary>Русский</summary>
 
-**Русский**
 В этой папке лежит ERC‑20 контракт и тесты.
 
 Основные файлы
@@ -81,3 +80,4 @@ forge create src/PlaygroundERC20.sol:PlaygroundERC20 \
 Примечания
 - `--broadcast` отправляет реальную транзакцию. Без него Forge делает только dry‑run.
 - Начальное предложение в примере: `1,000,000 * 10^18`.
+</details>

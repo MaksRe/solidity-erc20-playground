@@ -1,6 +1,5 @@
 # Frontend (Next.js + Wagmi + Viem)
 
-**English**
 This UI connects to `PlaygroundERC20` and lets you read token state and send transactions from a wallet.
 
 What you can do
@@ -24,9 +23,9 @@ Notes
 - If the UI shows “Not set”, it means the contract address is missing or invalid.
 - After editing `.env.local`, restart `npm run dev`.
 
----
+<details>
+<summary>Русский</summary>
 
-**Русский**
 Этот интерфейс подключается к `PlaygroundERC20` и позволяет читать состояние токена и отправлять транзакции.
 
 Что доступно
@@ -49,3 +48,4 @@ Notes
 Примечания
 - Если в UI написано “Не задан”, значит адрес контракта не указан или неверный.
 - После изменения `.env.local` перезапустите `npm run dev`.
+</details>

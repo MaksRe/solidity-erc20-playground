@@ -1,6 +1,5 @@
 # solidity-erc20-playground
 
-**English**
 This repository is a compact ERC-20 playground: a Solidity token with full tests (Foundry) and a clean demo UI (Next.js + Wagmi + Viem). It focuses on core token mechanics and a simple end-to-end flow: deploy → connect wallet → interact.
 
 Key features
@@ -44,9 +43,9 @@ npm install
 npm run dev
 ```
 
----
+<details>
+<summary>Русский</summary>
 
-**Русский**
 Этот репозиторий — компактная песочница ERC-20: Solidity‑токен с полноценными тестами (Foundry) и аккуратным UI (Next.js + Wagmi + Viem). Цель — показать базовую механику токенов и полный цикл: деплой → подключение кошелька → взаимодействие.
 
 Ключевые возможности
@@ -89,3 +88,4 @@ cd /d/dev/Solidity/solidity-erc20-playground_git/frontend
 npm install
 npm run dev
 ```
+</details>
